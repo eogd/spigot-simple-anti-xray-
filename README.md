@@ -1,0 +1,1 @@
+There's really nothing to say ... This anti-cheat only contains mineral perspective detection, when the player increases the VL value by one point every time the player mines diamond ore or deep diamond ore, deducts 1 VL value every 10 seconds, and bans the player when the VL value exceeds 15
